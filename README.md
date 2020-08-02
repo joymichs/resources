@@ -1,4 +1,5 @@
 # Resources
+A collation of amazing platforms and tools for learning
 
 ## Table of Contents
 - [Python](https://github.com/joymichs/resources#python)
