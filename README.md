@@ -9,3 +9,4 @@ A collation of amazing platforms and tools for learning
 - [Hackr](https://hackr.io/tutorials/learn-python)
 - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
 - [Dev.to](https://dev.to/t/python)
+- [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
