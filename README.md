@@ -6,6 +6,7 @@ A collation of amazing platforms and tools for learning
 
 ### Python
 - [Real Python](https://realpython.com/)
+- [Data Science Masters](http://datasciencemasters.org/)
 - [Stackify](https://stackify.com/learn-python-tutorials/)
 - [Hackr](https://hackr.io/tutorials/learn-python)
 - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
