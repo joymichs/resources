@@ -18,3 +18,4 @@ A collation of amazing platforms and tools for learning
 - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
 - [h9](https://hakin9.org/list-of-free-python-resources/)
 - [techqueria](https://github.com/techqueria/python-learning-resources)
+- [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
