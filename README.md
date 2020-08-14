@@ -20,3 +20,4 @@ A collation of amazing platforms and tools for learning
 - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
 - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
 - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)
+- [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
