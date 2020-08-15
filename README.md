@@ -21,3 +21,4 @@ A collation of amazing platforms and tools for learning
 - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
 - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)
 - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
+- [feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
