@@ -24,3 +24,4 @@ A collation of amazing platforms and tools for learning
 - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
 - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
 - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
+- [Learn Python](https://www.computerscienceonline.org/learn-python/)
