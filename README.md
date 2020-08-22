@@ -26,3 +26,4 @@ A collation of amazing platforms and tools for learning
 - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [Learn Python](https://www.computerscienceonline.org/learn-python/)
 - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+- [Jorisboeye/python-resources](https://github.com/jorisboeye/python-resources)
