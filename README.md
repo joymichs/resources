@@ -30,3 +30,4 @@ A collation of amazing platforms and tools for learning
 - [Jareddrayton/Python-Resources](https://github.com/jareddrayton/Python-Resources)
 - [Adrianmoisey/learn-python](https://github.com/adrianmoisey/learn-python)
 - [AndersBallegaard/Python-resources](https://github.com/AndersBallegaard/Python-resources)
+- [Stephenh67/python-resources-2019](https://github.com/stephenh67/python-resources-2019)
