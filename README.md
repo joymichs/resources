@@ -32,3 +32,4 @@ A collation of amazing platforms and tools for learning
 - [AndersBallegaard/Python-resources](https://github.com/AndersBallegaard/Python-resources)
 - [Stephenh67/python-resources-2019](https://github.com/stephenh67/python-resources-2019)
 - [CodementorIO/Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
+- [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
