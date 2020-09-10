@@ -10,6 +10,7 @@ A collation of amazing platforms and tools for learning
 
 - [Real Python](https://realpython.com/)
 - [Data Science Masters](http://datasciencemasters.org/)
+- [Talk Python] (https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
 - [Stackify](https://stackify.com/learn-python-tutorials/)
 - [Hackr](https://hackr.io/tutorials/learn-python)
 - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
