@@ -4,14 +4,14 @@ A collation of amazing platforms and tools for learning
 
 ## Table of Contents
 
-- [Python'N'DataScience](https://github.com/joymichs/resources#python'n'datascience)
+- [datascience_with_python](https://github.com/joymichs/resources#datascience_with_python)
 
-### Python'N'DataScience
+### datascience_with_python
 
 - [Real Python](https://realpython.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Data Science Masters](http://datasciencemasters.org/)
-- [Talk Python] (https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
+- [Talk Python](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
 - [Stackify](https://stackify.com/learn-python-tutorials/)
 - [Hackr](https://hackr.io/tutorials/learn-python)
 - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
