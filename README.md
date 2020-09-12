@@ -4,7 +4,7 @@ A collation of amazing platforms and tools for learning
 
 ## Table of Contents
 
-- [Python'N'DataScience](https://github.com/joymichs/resources#python)
+- [Python'N'DataScience](https://github.com/joymichs/resources#python'n'datascience)
 
 ### Python'N'DataScience
 
