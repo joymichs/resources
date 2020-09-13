@@ -4,9 +4,9 @@ A collation of amazing platforms and tools for learning
 
 ## Table of Contents
 
-- [Python'N'DataScience](https://github.com/joymichs/resources#python'n'datascience)
+- [datascience_with_python](https://github.com/joymichs/resources#datascience_with_python)
 
-### Python'N'DataScience
+### datascience_with_python
 
 - [Real Python](https://realpython.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
