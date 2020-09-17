@@ -8,6 +8,7 @@ A collation of amazing platforms and tools for learning
 
 ### datascience_with_python
 
+- [Kdnuggets](https://www.kdnuggets.com/)
 - [Real Python](https://realpython.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Data Science Masters](http://datasciencemasters.org/)
