@@ -10,6 +10,7 @@ A collation of amazing platforms and tools for learning
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Kdnuggets](https://www.kdnuggets.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - [Data School](https://www.dataschool.io/resources/)
 - [Real Python](https://realpython.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
