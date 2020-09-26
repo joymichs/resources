@@ -12,6 +12,7 @@ A collation of amazing platforms and tools for learning
 - [Kdnuggets](https://www.kdnuggets.com/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - [Data School](https://www.dataschool.io/resources/)
+- [DataQuest](https://www.dataquest.io/)
 - [Real Python](https://realpython.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Data Science Masters](http://datasciencemasters.org/)
