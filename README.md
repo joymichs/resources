@@ -10,6 +10,7 @@ A collation of amazing platforms and tools for learning
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Kdnuggets](https://www.kdnuggets.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - [Data School](https://www.dataschool.io/resources/)
 - [Real Python](https://realpython.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
@@ -24,6 +25,7 @@ A collation of amazing platforms and tools for learning
 - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
 - [H9](https://hakin9.org/list-of-free-python-resources/)
 - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
+- [Explained AI](https://explained.ai/)
 - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
 - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)
 - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
