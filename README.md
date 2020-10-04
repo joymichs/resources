@@ -39,3 +39,4 @@ A collation of amazing platforms and tools for learning
 - [Elite DataScience](https://elitedatascience.com/data-science-resources)
 - [Distill](https://distill.pub/)
 - [Kaggle](https://www.kaggle.com/)
+- [Information is Beautiful](https://informationisbeautiful.net/blog/)
