@@ -38,3 +38,4 @@ A collation of amazing platforms and tools for learning
 - [Elite DataScience](https://elitedatascience.com/data-science-resources)
 - [Distill](https://distill.pub/)
 - [Kaggle](https://www.kaggle.com/)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
