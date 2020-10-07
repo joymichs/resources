@@ -41,3 +41,4 @@ A collation of amazing platforms and tools for learning
 - [Kaggle](https://www.kaggle.com/)
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
 - [Information is Beautiful](https://informationisbeautiful.net/blog/)
+- [DeepLearning Book](http://www.deeplearningbook.org/)
