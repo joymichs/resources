@@ -8,8 +8,10 @@ A collation of amazing platforms and tools for learning
 
 ### datascience_with_python
 
+- [Kaggle](https://www.kaggle.com/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Kdnuggets](https://www.kdnuggets.com/)
+- [Data World](https://data.world/blog)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - [Data School](https://www.dataschool.io/resources/)
 - [DataQuest](https://www.dataquest.io/)
@@ -37,5 +39,5 @@ A collation of amazing platforms and tools for learning
 - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 - [Elite DataScience](https://elitedatascience.com/data-science-resources)
 - [Distill](https://distill.pub/)
-- [Kaggle](https://www.kaggle.com/)
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
+- [Information is Beautiful](https://informationisbeautiful.net/blog/)
