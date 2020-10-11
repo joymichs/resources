@@ -7,7 +7,7 @@ A collation of amazing platforms and tools for learning
 - [datascience_with_python](https://github.com/joymichs/resources#datascience_with_python)
 
 ### datascience_with_python
-
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Kaggle](https://www.kaggle.com/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Kdnuggets](https://www.kdnuggets.com/)
