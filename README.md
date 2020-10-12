@@ -46,3 +46,4 @@ A collation of amazing platforms and tools for learning
 - [Information is Beautiful](https://informationisbeautiful.net/blog/)
 - [DeepLearning Book](http://www.deeplearningbook.org/)
 - [EDX](https://www.edx.org/learn/data-science)
+- [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
