@@ -7,6 +7,7 @@ A collation of amazing platforms and tools for learning
 - [datascience_with_python](https://github.com/joymichs/resources#datascience_with_python)
 
 ### datascience_with_python
+
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Kaggle](https://www.kaggle.com/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -46,3 +47,5 @@ A collation of amazing platforms and tools for learning
 - [Information is Beautiful](https://informationisbeautiful.net/blog/)
 - [DeepLearning Book](http://www.deeplearningbook.org/)
 - [EDX](https://www.edx.org/learn/data-science)
+- [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+- [Cognitive Class](https://cognitiveclass.ai/)
