@@ -51,3 +51,4 @@ A collation of amazing platforms and tools for learning
 - [Cognitive Class](https://cognitiveclass.ai/)
 - [Springboard](https://www.springboard.com/workshops/data-science-career-track?afmc=2h)
 - [Intellipat](https://intellipaat.com/tutorials/)
+- [Datascience.com](http://101.datascience.community/)
