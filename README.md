@@ -33,6 +33,7 @@ A collation of amazing platforms and tools for learning
 - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
 - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)
 - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
+- [The Shape of Data](https://shapeofdata.wordpress.com/about/)
 - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
 - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
 - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
