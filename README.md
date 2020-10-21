@@ -55,3 +55,4 @@ A collation of amazing platforms and tools for learning
 - [Intellipat](https://intellipaat.com/tutorials/)
 - [Datascience.com](http://101.datascience.community/)
 - [Chris Albon's blog](https://chrisalbon.com/)
+- [Data36](https://data36.com/)
