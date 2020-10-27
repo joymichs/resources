@@ -58,4 +58,4 @@ A collation of amazing platforms and tools for learning
 - [Chris Albon's blog](https://chrisalbon.com/)
 - [Edwin Chen's blog](http://blog.echen.me/)
 - [Data36](https://data36.com/)
-- [SpringBoard](https://www.springboard.com/workshops/data-science-career-track?afmc=2h)
+- [Simply Statistics](https://simplystatistics.org/)
