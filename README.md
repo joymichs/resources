@@ -9,7 +9,7 @@ A collation of amazing platforms and tools for learning
 ### datascience_with_python
   - Youtube:
     - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
-  - Blog:
+  - Blogs:
     - [Big Data Blog](http://blog.bigdataweek.com/)
     - [Edwin Chen's blog](http://blog.echen.me/)
   - Uncategorized:
