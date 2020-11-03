@@ -11,6 +11,7 @@ A collation of amazing platforms and tools for learning
     - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
   - Blog:
     - [Big Data Blog](http://blog.bigdataweek.com/)
+    - [Edwin Chen's blog](http://blog.echen.me/)
   - Uncategorized:
     - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
     - [Kaggle](https://www.kaggle.com/)
@@ -60,4 +61,3 @@ A collation of amazing platforms and tools for learning
     - [Data36](https://data36.com/)
     - [Simply Statistics](https://simplystatistics.org/)
     - [Chris Albon's blog](https://chrisalbon.com/)
-    - [Edwin Chen's blog](http://blog.echen.me/)
