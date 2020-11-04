@@ -12,6 +12,8 @@ A collation of amazing platforms and tools for learning
   - Blogs:
     - [Big Data Blog](http://blog.bigdataweek.com/)
     - [Edwin Chen's blog](http://blog.echen.me/)
+  - Repos:
+    - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - Uncategorized:
     - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
     - [Kaggle](https://www.kaggle.com/)
@@ -40,7 +42,6 @@ A collation of amazing platforms and tools for learning
     - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
     - [The Shape of Data](https://shapeofdata.wordpress.com/about/)
     - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
-    - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
     - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
     - [Learn Python](https://www.computerscienceonline.org/learn-python/)
     - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
