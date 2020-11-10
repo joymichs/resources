@@ -13,6 +13,7 @@ A collation of amazing platforms and tools for learning
 - Blogs:
   - [Big Data Blog](http://blog.bigdataweek.com/)
   - [Edwin Chen's blog](http://blog.echen.me/)
+  - [Chris Albon's blog](https://chrisalbon.com/)
 - Repos:
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
@@ -62,4 +63,3 @@ A collation of amazing platforms and tools for learning
   - [Datascience.com](http://101.datascience.community/)
   - [Data36](https://data36.com/)
   - [Simply Statistics](https://simplystatistics.org/)
-  - [Chris Albon's blog](https://chrisalbon.com/)
