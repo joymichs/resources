@@ -14,6 +14,7 @@ A collation of amazing platforms and tools for learning
   - [Big Data Blog](http://blog.bigdataweek.com/)
   - [Edwin Chen's blog](http://blog.echen.me/)
   - [Chris Albon's blog](https://chrisalbon.com/)
+  - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
 - Repos:
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
@@ -49,7 +50,6 @@ A collation of amazing platforms and tools for learning
   - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   - [Elite DataScience](https://elitedatascience.com/data-science-resources)
   - [Distill](https://distill.pub/)
-  - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [Kaggle](https://www.kaggle.com/)
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
