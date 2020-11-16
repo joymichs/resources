@@ -15,6 +15,7 @@ A collation of amazing platforms and tools for learning
   - [Edwin Chen's blog](http://blog.echen.me/)
   - [Chris Albon's blog](https://chrisalbon.com/)
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
+  - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 - Repos:
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
@@ -26,7 +27,6 @@ A collation of amazing platforms and tools for learning
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Kdnuggets](https://www.kdnuggets.com/)
   - [Data World](https://data.world/blog)
-  - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
   - [Data School](https://www.dataschool.io/resources/)
   - [DataQuest](https://www.dataquest.io/)
   - [Real Python](https://realpython.com/)
