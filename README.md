@@ -21,8 +21,8 @@ A collation of amazing platforms and tools for learning
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
   - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)h
   - [Quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
-- Uncategorized:
   - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Kdnuggets](https://www.kdnuggets.com/)
