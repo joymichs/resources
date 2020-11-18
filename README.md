@@ -22,6 +22,7 @@ A collation of amazing platforms and tools for learning
   - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)h
   - [Quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
   - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+  - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
 - Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -40,7 +41,6 @@ A collation of amazing platforms and tools for learning
   - [Paper with Code](https://paperswithcode.com/)
   - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
   - [H9](https://hakin9.org/list-of-free-python-resources/)
-  - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
   - [Explained AI](https://explained.ai/)
   - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
   - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
