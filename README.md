@@ -16,6 +16,7 @@ A collation of amazing platforms and tools for learning
   - [Chris Albon's blog](https://chrisalbon.com/)
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+  - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
 - Repos:
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
@@ -52,7 +53,6 @@ A collation of amazing platforms and tools for learning
   - [Distill](https://distill.pub/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [Kaggle](https://www.kaggle.com/)
-  - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
   - [EDX](https://www.edx.org/learn/data-science)
