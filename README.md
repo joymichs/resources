@@ -11,6 +11,7 @@ A collation of amazing platforms and tools for learning
 - Youtube:
   - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 - Blogs:
+  - [Kdnuggets](https://www.kdnuggets.com/)
   - [Big Data Blog](http://blog.bigdataweek.com/)
   - [Edwin Chen's blog](http://blog.echen.me/)
   - [Chris Albon's blog](https://chrisalbon.com/)
@@ -28,7 +29,6 @@ A collation of amazing platforms and tools for learning
 - Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-  - [Kdnuggets](https://www.kdnuggets.com/)
   - [Data World](https://data.world/blog)
   - [Data School](https://www.dataschool.io/resources/)
   - [DataQuest](https://www.dataquest.io/)
