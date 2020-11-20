@@ -17,6 +17,7 @@ A collation of amazing platforms and tools for learning
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
+  - [Dev.to](https://dev.to/t/python)
 - Repos:
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
@@ -38,7 +39,6 @@ A collation of amazing platforms and tools for learning
   - [Stackify](https://stackify.com/learn-python-tutorials/)
   - [Hackr](https://hackr.io/tutorials/learn-python)
   - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
-  - [Dev.to](https://dev.to/t/python)
   - [Paper with Code](https://paperswithcode.com/)
   - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
   - [H9](https://hakin9.org/list-of-free-python-resources/)
