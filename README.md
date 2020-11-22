@@ -12,6 +12,7 @@ A collation of amazing platforms and tools for learning
   - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 - Blogs:
   - [Kdnuggets](https://www.kdnuggets.com/)
+  - [Real Python](https://realpython.com/)
   - [Big Data Blog](http://blog.bigdataweek.com/)
   - [Edwin Chen's blog](http://blog.echen.me/)
   - [Chris Albon's blog](https://chrisalbon.com/)
@@ -32,7 +33,6 @@ A collation of amazing platforms and tools for learning
   - [Data World](https://data.world/blog)
   - [Data School](https://www.dataschool.io/resources/)
   - [DataQuest](https://www.dataquest.io/)
-  - [Real Python](https://realpython.com/)
   - [Machine Learning Mastery](https://machinelearningmastery.com/)
   - [Data Science Masters](http://datasciencemasters.org/)
   - [Talk Python](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
