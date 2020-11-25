@@ -28,6 +28,7 @@ A collation of amazing platforms and tools for learning
   - [Quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
   - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
   - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
+  - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
 - Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -46,7 +47,6 @@ A collation of amazing platforms and tools for learning
   - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
   - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
   - [The Shape of Data](https://shapeofdata.wordpress.com/about/)
-  - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
   - [Learn Python](https://www.computerscienceonline.org/learn-python/)
   - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   - [Elite DataScience](https://elitedatascience.com/data-science-resources)
