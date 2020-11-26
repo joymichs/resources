@@ -29,12 +29,13 @@ A collation of amazing platforms and tools for learning
   - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
   - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
+- MOOCs:
+  - [DataQuest](https://www.dataquest.io/)
 - Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Data World](https://data.world/blog)
   - [Data School](https://www.dataschool.io/resources/)
-  - [DataQuest](https://www.dataquest.io/)
   - [Data Science Masters](http://datasciencemasters.org/)
   - [Talk Python](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
   - [Stackify](https://stackify.com/learn-python-tutorials/)
