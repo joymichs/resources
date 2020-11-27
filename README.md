@@ -31,6 +31,7 @@ A collation of amazing platforms and tools for learning
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
 - MOOCs:
   - [DataQuest](https://www.dataquest.io/)
+  - [EDX](https://www.edx.org/learn/data-science)
 - Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -56,7 +57,6 @@ A collation of amazing platforms and tools for learning
   - [Kaggle](https://www.kaggle.com/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
-  - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
   - [Towards Datascience](https://towardsdatascience.com/)
   - [Springboard](https://www.springboard.com/workshops/data-science-career-track?afmc=2h)
