@@ -22,6 +22,7 @@ A collation of amazing platforms and tools for learning
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Dev.to](https://dev.to/t/python)
 - Repos:
+  - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
   - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)h
@@ -34,7 +35,6 @@ A collation of amazing platforms and tools for learning
   - [EDX](https://www.edx.org/learn/data-science)
 - Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
-  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Data World](https://data.world/blog)
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
