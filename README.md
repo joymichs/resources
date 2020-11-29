@@ -33,6 +33,8 @@ A collation of amazing platforms and tools for learning
 - MOOCs:
   - [DataQuest](https://www.dataquest.io/)
   - [EDX](https://www.edx.org/learn/data-science)
+- Competitions
+  - [Kaggle](https://www.kaggle.com/)
 - Uncategorized:
   - [Kaggle](https://www.kaggle.com/)
   - [Data World](https://data.world/blog)
@@ -54,7 +56,6 @@ A collation of amazing platforms and tools for learning
   - [Elite DataScience](https://elitedatascience.com/data-science-resources)
   - [Distill](https://distill.pub/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
-  - [Kaggle](https://www.kaggle.com/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
   - [Cognitive Class](https://cognitiveclass.ai/)
