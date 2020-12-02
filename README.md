@@ -36,7 +36,6 @@ A collation of amazing platforms and tools for learning
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
 - Uncategorized:
-  - [Kaggle](https://www.kaggle.com/)
   - [Data World](https://data.world/blog)
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
@@ -55,7 +54,6 @@ A collation of amazing platforms and tools for learning
   - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   - [Elite DataScience](https://elitedatascience.com/data-science-resources)
   - [Distill](https://distill.pub/)
-  - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
   - [Cognitive Class](https://cognitiveclass.ai/)
