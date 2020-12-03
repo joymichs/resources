@@ -10,6 +10,7 @@ A collation of amazing platforms and tools for learning
 
 - Youtube:
   - [StatQuest](https://www.youtube.com/user/joshstarmer)
+  - [Kris Naik](https://www.youtube.com/user/krishnaik06)
   - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 - Blogs:
   - [Kdnuggets](https://www.kdnuggets.com/)
