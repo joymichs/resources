@@ -33,8 +33,9 @@ A collation of amazing platforms and tools for learning
   - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
 - MOOCs:
-  - [DataQuest](https://www.dataquest.io/)
   - [EDX](https://www.edx.org/learn/data-science)
+- Paid Courses
+  - [DataQuest](https://www.dataquest.io/)
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
 - Uncategorized:
