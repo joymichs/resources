@@ -21,6 +21,7 @@ A collation of amazing platforms and tools for learning
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Dev.to](https://dev.to/t/python)
+  - [Data World](https://data.world/blog)
 - Repos:
   - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
@@ -36,8 +37,6 @@ A collation of amazing platforms and tools for learning
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
 - Uncategorized:
-  - [Kaggle](https://www.kaggle.com/)
-  - [Data World](https://data.world/blog)
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
   - [Talk Python](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
