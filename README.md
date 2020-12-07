@@ -9,6 +9,8 @@ A collation of amazing platforms and tools for learning
 ### datascience_with_python
 
 - Youtube:
+  - [StatQuest](https://www.youtube.com/user/joshstarmer)
+  - [Kris Naik](https://www.youtube.com/user/krishnaik06)
   - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 - Blogs:
   - [Kdnuggets](https://www.kdnuggets.com/)
@@ -32,8 +34,9 @@ A collation of amazing platforms and tools for learning
   - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
 - MOOCs:
-  - [DataQuest](https://www.dataquest.io/)
   - [EDX](https://www.edx.org/learn/data-science)
+- Paid Courses
+  - [DataQuest](https://www.dataquest.io/)
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
 - Uncategorized:
@@ -54,7 +57,6 @@ A collation of amazing platforms and tools for learning
   - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   - [Elite DataScience](https://elitedatascience.com/data-science-resources)
   - [Distill](https://distill.pub/)
-  - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
   - [Cognitive Class](https://cognitiveclass.ai/)
