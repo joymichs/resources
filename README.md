@@ -39,6 +39,7 @@ A collation of amazing platforms and tools for learning
   - [DataQuest](https://www.dataquest.io/)
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
+  - [Driven Data](https://drivendata.org)
 - Uncategorized:
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
