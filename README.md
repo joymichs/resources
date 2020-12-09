@@ -40,6 +40,7 @@ A collation of amazing platforms and tools for learning
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
   - [Driven Data](https://drivendata.org)
+  - [Datahack](http://datahack.analyticsvidhya.com/)
 - Uncategorized:
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
