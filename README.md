@@ -24,6 +24,7 @@ A collation of amazing platforms and tools for learning
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Dev.to](https://dev.to/t/python)
   - [Data World](https://data.world/blog)
+  - [Towards Datascience](https://towardsdatascience.com/)
 - Repos:
   - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
@@ -66,7 +67,6 @@ A collation of amazing platforms and tools for learning
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
   - [Cognitive Class](https://cognitiveclass.ai/)
-  - [Towards Datascience](https://towardsdatascience.com/)
   - [Springboard](https://www.springboard.com/workshops/data-science-career-track?afmc=2h)
   - [Intellipat](https://intellipaat.com/tutorials/)
   - [Datascience.com](http://101.datascience.community/)
