@@ -38,6 +38,7 @@ A collation of amazing platforms and tools for learning
   - [EDX](https://www.edx.org/learn/data-science)
 - Paid Courses
   - [DataQuest](https://www.dataquest.io/)
+  - [Datacamp](https://datacamp.com/)
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
   - [Driven Data](https://drivendata.org)
