@@ -5,6 +5,10 @@ A collation of amazing platforms and tools for learning
 ## Table of Contents
 
 - [datascience_with_python](https://github.com/joymichs/resources#datascience_with_python)
+- [algorithms_and_datastructures](https://github.com/joymichs/resources#algorithms_and_datastructures)
+
+### algorithms_and_datastructures
+- [AlgoExpert](https://www.algoexpert.io/product)
 
 ### datascience_with_python
 
