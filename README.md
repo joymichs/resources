@@ -43,6 +43,7 @@ A collation of amazing platforms and tools for learning
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
+  - [Cognitive Class](https://cognitiveclass.ai/)
 - Paid Courses
   - [DataQuest](https://www.dataquest.io/)
   - [Datacamp](https://datacamp.com/)
@@ -74,7 +75,6 @@ A collation of amazing platforms and tools for learning
   - [Distill](https://distill.pub/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
-  - [Cognitive Class](https://cognitiveclass.ai/)
   - [Springboard](https://www.springboard.com/workshops/data-science-career-track?afmc=2h)
   - [Intellipat](https://intellipaat.com/tutorials/)
   - [Datascience.com](http://101.datascience.community/)
