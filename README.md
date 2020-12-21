@@ -8,10 +8,12 @@ A collation of amazing platforms and tools for learning
 - [algorithms_and_datastructures](https://github.com/joymichs/resources#algorithms_and_datastructures)
 
 ### algorithms_and_datastructures
+
 - [AlgoExpert](https://www.algoexpert.io/product)
 - [Coderbyte](https://www.coderbyte.com/)
 - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [HackerRank](https://www.hackerrank.com/domains)
+- [VisualAlgo](https://visualgo.net/en)
 
 ### datascience_with_python
 
@@ -29,7 +31,7 @@ A collation of amazing platforms and tools for learning
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
-  - [Dev.to](https://dev.to/t/python)
+  - [DevTo](https://dev.to/t/python)
   - [Data World](https://data.world/blog)
   - [Towards Datascience](https://towardsdatascience.com/)
 - Repos:
