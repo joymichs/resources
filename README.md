@@ -12,6 +12,7 @@ A collation of amazing platforms and tools for learning
 - [Coderbyte](https://www.coderbyte.com/)
 - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [HackerRank](https://www.hackerrank.com/domains)
+- [VisualAlgo](https://visualgo.net/en)
 
 ### datascience_with_python
 
