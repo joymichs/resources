@@ -22,6 +22,7 @@ A collation of amazing platforms and tools for learning
   - [StatQuest](https://www.youtube.com/user/joshstarmer)
   - [Kris Naik](https://www.youtube.com/user/krishnaik06)
   - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+  - [The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/playlists)
 - Blogs:
   - [Kdnuggets](https://www.kdnuggets.com/)
   - [Machine Learning Mastery](https://machinelearningmastery.com/)
