@@ -59,6 +59,8 @@ A collation of amazing platforms and tools for learning
   - [Codalab](https://competitions.codalab.org/competitions/)
   - [CrowdAnalytix](https://www.crowdanalytix.com/community)
   - [ML Contests](https://mlcontests.com/)
+- Papers
+  - [Paper with Code](https://paperswithcode.com/)
 - Uncategorized:
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
@@ -66,7 +68,6 @@ A collation of amazing platforms and tools for learning
   - [Stackify](https://stackify.com/learn-python-tutorials/)
   - [Hackr](https://hackr.io/tutorials/learn-python)
   - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
-  - [Paper with Code](https://paperswithcode.com/)
   - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
   - [H9](https://hakin9.org/list-of-free-python-resources/)
   - [Explained AI](https://explained.ai/)
