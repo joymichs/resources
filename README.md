@@ -40,7 +40,7 @@ A collation of amazing platforms and tools for learning
   - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
-  - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)h
+  - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)
   - [Quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
   - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
   - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
