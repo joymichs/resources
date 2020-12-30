@@ -51,6 +51,7 @@ A collation of amazing platforms and tools for learning
 - Paid Courses
   - [DataQuest](https://www.dataquest.io/)
   - [Datacamp](https://datacamp.com/)
+  - [Dataschool](https://www.dataschool.io/ml-courses/)
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
   - [Driven Data](https://drivendata.org)
