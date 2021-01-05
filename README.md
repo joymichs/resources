@@ -64,6 +64,7 @@ A collation of amazing platforms and tools for learning
   - [Paper with Code](https://paperswithcode.com/)
   - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Uncategorized:
+  - [Distill](https://distill.pub/)
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
   - [Talk Python](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
