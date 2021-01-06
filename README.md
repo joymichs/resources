@@ -80,7 +80,6 @@ A collation of amazing platforms and tools for learning
   - [Learn Python](https://www.computerscienceonline.org/learn-python/)
   - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   - [Elite DataScience](https://elitedatascience.com/data-science-resources)
-  - [Distill](https://distill.pub/)
   - [Information is Beautiful](https://informationisbeautiful.net/blog/)
   - [DeepLearning Book](http://www.deeplearningbook.org/)
   - [Springboard](https://www.springboard.com/workshops/data-science-career-track?afmc=2h)
