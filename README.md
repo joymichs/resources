@@ -11,6 +11,7 @@ A collation of amazing platforms and tools for learning
 
 - [Leetcode](https://leetcode.com/)
 - [AlgoExpert](https://www.algoexpert.io/product)
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Coderbyte](https://www.coderbyte.com/)
 - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [HackerRank](https://www.hackerrank.com/domains)
