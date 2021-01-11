@@ -9,6 +9,7 @@ A collation of amazing platforms and tools for learning
 
 ### algorithms_and_datastructures
 
+- [TheAlgorithms](https://github.com/TheAlgorithms)
 - [Leetcode](https://leetcode.com/)
 - [AlgoExpert](https://www.algoexpert.io/product)
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
