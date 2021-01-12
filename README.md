@@ -17,6 +17,7 @@ A collation of amazing platforms and tools for learning
 - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [HackerRank](https://www.hackerrank.com/domains)
 - [VisualAlgo](https://visualgo.net/en)
+- [iiitv/algos](https://github.com/iiitv/algos)
 
 ### datascience_with_python
 
