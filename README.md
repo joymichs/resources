@@ -20,6 +20,7 @@ A collation of amazing platforms and tools for learning
 - [VisualAlgo](https://visualgo.net/en)
 - [iiitv/algos](https://github.com/iiitv/algos)
 - [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
+- [varunu28/Algorithms-and-Data-Structures](https://github.com/varunu28/Algorithms-and-Data-Structures)
 
 ### datascience_with_python
 
