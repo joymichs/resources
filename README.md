@@ -19,6 +19,7 @@ A collation of amazing platforms and tools for learning
 - [HackerRank](https://www.hackerrank.com/domains)
 - [VisualAlgo](https://visualgo.net/en)
 - [iiitv/algos](https://github.com/iiitv/algos)
+- [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
 
 ### datascience_with_python
 
