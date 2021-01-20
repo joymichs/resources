@@ -23,6 +23,7 @@ A collation of amazing platforms and tools for learning
 - [varunu28/Algorithms-and-Data-Structures](https://github.com/varunu28/Algorithms-and-Data-Structures)
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 - [ephremdeme/data-structure-and-algorithms](https://github.com/ephremdeme/data-structure-and-algorithms)
+- [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
 
 ### datascience_with_python
 
