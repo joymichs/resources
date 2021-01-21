@@ -18,12 +18,13 @@ A collation of amazing platforms and tools for learning
 - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [HackerRank](https://www.hackerrank.com/domains)
 - [VisualAlgo](https://visualgo.net/en)
-- [iiitv/algos](https://github.com/iiitv/algos)
-- [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
-- [varunu28/Algorithms-and-Data-Structures](https://github.com/varunu28/Algorithms-and-Data-Structures)
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-- [ephremdeme/data-structure-and-algorithms](https://github.com/ephremdeme/data-structure-and-algorithms)
-- [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
+- Repos:
+  - [iiitv/algos](https://github.com/iiitv/algos)
+  - [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
+  - [varunu28/Algorithms-and-Data-Structures](https://github.com/varunu28/Algorithms-and-Data-Structures)
+  - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+  - [ephremdeme/data-structure-and-algorithms](https://github.com/ephremdeme/data-structure-and-algorithms)
+  - [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
 
 ### datascience_with_python
 
