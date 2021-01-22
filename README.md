@@ -10,7 +10,6 @@ A collation of amazing platforms and tools for learning
 ### algorithms_and_datastructures
 
 - [TheAlgorithms](https://github.com/TheAlgorithms)
-- [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
 - [Leetcode](https://leetcode.com/)
 - [AlgoExpert](https://www.algoexpert.io/product)
 - [Coderbyte](https://www.coderbyte.com/)
@@ -25,6 +24,7 @@ A collation of amazing platforms and tools for learning
   - [ephremdeme/data-structure-and-algorithms](https://github.com/ephremdeme/data-structure-and-algorithms)
   - [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
   - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+  - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
 
 ### datascience_with_python
 
