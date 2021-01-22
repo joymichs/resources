@@ -13,7 +13,6 @@ A collation of amazing platforms and tools for learning
 - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
 - [Leetcode](https://leetcode.com/)
 - [AlgoExpert](https://www.algoexpert.io/product)
-- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Coderbyte](https://www.coderbyte.com/)
 - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [HackerRank](https://www.hackerrank.com/domains)
@@ -25,6 +24,7 @@ A collation of amazing platforms and tools for learning
   - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
   - [ephremdeme/data-structure-and-algorithms](https://github.com/ephremdeme/data-structure-and-algorithms)
   - [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
+  - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 
 ### datascience_with_python
 
