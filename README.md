@@ -9,7 +9,6 @@ A collation of amazing platforms and tools for learning
 
 ### algorithms_and_datastructures
 
-- [TheAlgorithms](https://github.com/TheAlgorithms)
 - [Leetcode](https://leetcode.com/)
 - [AlgoExpert](https://www.algoexpert.io/product)
 - [Coderbyte](https://www.coderbyte.com/)
@@ -17,6 +16,7 @@ A collation of amazing platforms and tools for learning
 - [HackerRank](https://www.hackerrank.com/domains)
 - [VisualAlgo](https://visualgo.net/en)
 - Repos:
+  - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
   - [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
   - [varunu28/Algorithms-and-Data-Structures](https://github.com/varunu28/Algorithms-and-Data-Structures)
