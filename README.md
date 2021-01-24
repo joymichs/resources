@@ -25,6 +25,7 @@ A collation of amazing platforms and tools for learning
   - [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
   - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
   - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
+  - [PacktPublishing/Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
 
 ### datascience_with_python
 
