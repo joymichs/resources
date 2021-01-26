@@ -27,6 +27,7 @@ A collation of amazing platforms and tools for learning
   - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
   - [PacktPublishing/Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
   - [keon/algorithms](https://github.com/keon/algorithms)
+  - [OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
 
 ### datascience_with_python
 
