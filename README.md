@@ -16,6 +16,7 @@ A collation of amazing platforms and tools for learning
   - [HackerRank](https://www.hackerrank.com/domains)
   - [VisualAlgo](https://visualgo.net/en)
   - [Udacity Datastructures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+  - [TopCoder](https://www.topcoder.com/challenges/)
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
