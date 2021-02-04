@@ -18,6 +18,7 @@ A collation of amazing platforms and tools for learning
   - [Udacity Datastructures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
   - [TopCoder](https://www.topcoder.com/challenges/)
   - [LogicMojo](https://www.logicmojo.com/)
+  - [Codewars](https://www.codewars.com/)
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
