@@ -19,6 +19,7 @@ A collation of amazing platforms and tools for learning
   - [TopCoder](https://www.topcoder.com/challenges/)
   - [LogicMojo](https://www.logicmojo.com/)
   - [Codewars](https://www.codewars.com/)
+  - [Codechef](https://www.codechef.com/)
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
