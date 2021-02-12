@@ -21,6 +21,7 @@ A collation of amazing platforms and tools for learning
   - [Codewars](https://www.codewars.com/)
   - [Codechef](https://www.codechef.com/)
   - [CodeForces](https://codeforces.com/)
+  - [Interview Query](https://www.interviewquery.com/)
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
