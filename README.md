@@ -9,8 +9,8 @@ A collation of amazing platforms and tools for learning
 
 ### algorithms_and_datastructures
 - Uncategorized
-  - [Leetcode](https://leetcode.com/)
   - [AlgoExpert](https://www.algoexpert.io/product)
+  - [Leetcode](https://leetcode.com/)
   - [Skilled.dev](https://skilled.dev/)
   - [Coderbyte](https://www.coderbyte.com/)
   - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
