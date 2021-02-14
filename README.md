@@ -22,6 +22,7 @@ A collation of amazing platforms and tools for learning
   - [Codechef](https://www.codechef.com/)
   - [CodeForces](https://codeforces.com/)
   - [Interview Query](https://www.interviewquery.com/)
+  - [Interviewing.io](https://interviewing.io/)
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
