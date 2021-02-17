@@ -24,6 +24,7 @@ A collation of amazing platforms and tools for learning
   - [CodeForces](https://codeforces.com/)
   - [Interview Query](https://www.interviewquery.com/)
   - [Interviewing.io](https://interviewing.io/)
+  - [acloudguru](https://acloudguru.com/)
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
