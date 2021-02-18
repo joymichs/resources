@@ -27,6 +27,7 @@ A collation of amazing platforms and tools for learning
   - [acloudguru](https://acloudguru.com/)
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
+  - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
   - [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
   - [varunu28/Algorithms-and-Data-Structures](https://github.com/varunu28/Algorithms-and-Data-Structures)
@@ -34,7 +35,6 @@ A collation of amazing platforms and tools for learning
   - [ephremdeme/data-structure-and-algorithms](https://github.com/ephremdeme/data-structure-and-algorithms)
   - [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
   - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
-  - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
   - [PacktPublishing/Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
   - [keon/algorithms](https://github.com/keon/algorithms)
   - [OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
