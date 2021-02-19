@@ -9,7 +9,7 @@ A collation of amazing platforms and tools for learning
 
 ### algorithms_and_datastructures
 - Uncategorized
-  - [My Algorithms and Data Structures Learnings](https://github.com/joyadauche/algorithms-and-datastructures)
+  - [Algorithms and Data Structures Learnings](https://github.com/joyadauche/algorithms-and-datastructures)
   - [AlgoExpert](https://www.algoexpert.io/product)
   - [Interviewing.io](https://interviewing.io/)
   - [acloudguru](https://acloudguru.com/)
