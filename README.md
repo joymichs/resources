@@ -11,6 +11,8 @@ A collation of amazing platforms and tools for learning
 - Uncategorized
   - [My Algorithms and Data Structures Learnings](https://github.com/joyadauche/algorithms-and-datastructures)
   - [AlgoExpert](https://www.algoexpert.io/product)
+  - [Interviewing.io](https://interviewing.io/)
+  - [acloudguru](https://acloudguru.com/)
   - [Leetcode](https://leetcode.com/)
   - [Skilled.dev](https://skilled.dev/)
   - [Coderbyte](https://www.coderbyte.com/)
@@ -23,8 +25,7 @@ A collation of amazing platforms and tools for learning
   - [Codechef](https://www.codechef.com/)
   - [CodeForces](https://codeforces.com/)
   - [Interview Query](https://www.interviewquery.com/)
-  - [Interviewing.io](https://interviewing.io/)
-  - [acloudguru](https://acloudguru.com/)
+
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
   - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
