@@ -113,3 +113,4 @@ A collation of amazing platforms and tools for learning
   - [Datascience.com](http://101.datascience.community/)
   - [Data36](https://data36.com/)
   - [Simply Statistics](https://simplystatistics.org/)
+  - [Standford ML](https://www.coursera.org/learn/machine-learning)
