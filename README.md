@@ -28,6 +28,7 @@ A collation of amazing platforms and tools for learning
   - [PacktPublishing/Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
   - [keon/algorithms](https://github.com/keon/algorithms)
   - [OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
+  - [saiyangqi/Python-Data-Structures-and-Algorithms](https://github.com/saiyangqi/Python-Data-Structures-and-Algorithms)
 
 ### datascience_with_python
 
@@ -78,6 +79,7 @@ A collation of amazing platforms and tools for learning
   - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Uncategorized:
   - [Distill](https://distill.pub/)
+  - [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
   - [Data School](https://www.dataschool.io/resources/)
   - [Data Science Masters](http://datasciencemasters.org/)
   - [Talk Python](https://training.talkpython.fm/courses/explore_python_jumpstart/python-language-jumpstart-building-10-apps)
