@@ -9,14 +9,28 @@ A collation of amazing platforms and tools for learning
 
 ### algorithms_and_datastructures
 
-- [Leetcode](https://leetcode.com/)
-- [AlgoExpert](https://www.algoexpert.io/product)
-- [Coderbyte](https://www.coderbyte.com/)
-- [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
-- [HackerRank](https://www.hackerrank.com/domains)
-- [VisualAlgo](https://visualgo.net/en)
+- Uncategorized
+
+  - [Algorithms and Data Structures Learnings](https://github.com/joyadauche/algorithms-and-datastructures)
+  - [AlgoExpert](https://www.algoexpert.io/product)
+  - [Interviewing.io](https://interviewing.io/)
+  - [acloudguru](https://acloudguru.com/)
+  - [Leetcode](https://leetcode.com/)
+  - [Skilled.dev](https://skilled.dev/)
+  - [Coderbyte](https://www.coderbyte.com/)
+  - [MITOpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+  - [HackerRank](https://www.hackerrank.com/domains)
+  - [VisualAlgo](https://visualgo.net/en)
+  - [TopCoder](https://www.topcoder.com/challenges/)
+  - [LogicMojo](https://www.logicmojo.com/)
+  - [Codewars](https://www.codewars.com/)
+  - [Codechef](https://www.codechef.com/)
+  - [CodeForces](https://codeforces.com/)
+  - [Interview Query](https://www.interviewquery.com/)
+
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
+  - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
   - [iiitv/algos](https://github.com/iiitv/algos)
   - [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
   - [varunu28/Algorithms-and-Data-Structures](https://github.com/varunu28/Algorithms-and-Data-Structures)
@@ -24,11 +38,11 @@ A collation of amazing platforms and tools for learning
   - [ephremdeme/data-structure-and-algorithms](https://github.com/ephremdeme/data-structure-and-algorithms)
   - [arcuri82/algorithms](https://github.com/arcuri82/algorithms)
   - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
-  - [Data-Structures-and-Algorithms](https://github.com/cormacpayne/Data-Structures-and-Algorithms)
   - [PacktPublishing/Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
   - [keon/algorithms](https://github.com/keon/algorithms)
   - [OmkarPathak/Data-Structures-using-Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
   - [saiyangqi/Python-Data-Structures-and-Algorithms](https://github.com/saiyangqi/Python-Data-Structures-and-Algorithms)
+  - [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms)
 
 ### datascience_with_python
 
@@ -78,6 +92,7 @@ A collation of amazing platforms and tools for learning
   - [Paper with Code](https://paperswithcode.com/)
   - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Uncategorized:
+  - [MIT Resource](http://introtodeeplearning.com/)
   - [Distill](https://distill.pub/)
   - [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
   - [Data School](https://www.dataschool.io/resources/)
@@ -102,3 +117,4 @@ A collation of amazing platforms and tools for learning
   - [Datascience.com](http://101.datascience.community/)
   - [Data36](https://data36.com/)
   - [Simply Statistics](https://simplystatistics.org/)
+  - [Standford ML](https://www.coursera.org/learn/machine-learning)
