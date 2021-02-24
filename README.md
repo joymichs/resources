@@ -118,3 +118,4 @@ A collation of amazing platforms and tools for learning
   - [Data36](https://data36.com/)
   - [Simply Statistics](https://simplystatistics.org/)
   - [Standford ML](https://www.coursera.org/learn/machine-learning)
+  - [Stanford Resource](https://stanford-cs329s.github.io/syllabus.html)
