@@ -105,7 +105,6 @@ A collation of amazing platforms and tools for learning
   - [H9](https://hakin9.org/list-of-free-python-resources/)
   - [Explained AI](https://explained.ai/)
   - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
-  - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
   - [The Shape of Data](https://shapeofdata.wordpress.com/about/)
   - [Learn Python](https://www.computerscienceonline.org/learn-python/)
   - [Wiki Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
