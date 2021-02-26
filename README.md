@@ -92,6 +92,7 @@ A collation of amazing platforms and tools for learning
   - [Paper with Code](https://paperswithcode.com/)
   - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Uncategorized:
+  - [Health Analytics](https://healthitanalytics.com/)
   - [MIT Resource](http://introtodeeplearning.com/)
   - [Distill](https://distill.pub/)
   - [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
