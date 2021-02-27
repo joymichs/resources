@@ -92,6 +92,7 @@ A collation of amazing platforms and tools for learning
   - [Paper with Code](https://paperswithcode.com/)
   - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Uncategorized:
+  - [Health Analytics](https://healthitanalytics.com/)
   - [MIT Resource](http://introtodeeplearning.com/)
   - [Distill](https://distill.pub/)
   - [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
@@ -118,3 +119,4 @@ A collation of amazing platforms and tools for learning
   - [Simply Statistics](https://simplystatistics.org/)
   - [Standford ML](https://www.coursera.org/learn/machine-learning)
   - [Stanford Resource](https://stanford-cs329s.github.io/syllabus.html)
+  - [Statstinking21](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
