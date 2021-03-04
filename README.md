@@ -66,6 +66,7 @@ A collation of amazing platforms and tools for learning
   - [Towards Datascience](https://towardsdatascience.com/)
 - Repos:
   - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+  - [github.com/ashishpatel26](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
   - [Ignani/LearnPython](https://github.com/ignani/LearnPython)
   - [Vinta/awesome-python](https://github.com/vinta/awesome-python)
   - [Trekhleb/learn-python](https://github.com/trekhleb/learn-python)
@@ -120,6 +121,5 @@ A collation of amazing platforms and tools for learning
   - [Standford ML](https://www.coursera.org/learn/machine-learning)
   - [Stanford Resource](https://stanford-cs329s.github.io/syllabus.html)
   - [Statstinking21](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
-  - [github.com/ashishpatel26](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
   - [StatQuest Index](https://statquest.org/video-index/)
   - [github.com/fendouai](https://github.com/fendouai/Awesome-Chatbot)
