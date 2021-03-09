@@ -82,6 +82,9 @@ A collation of amazing platforms and tools for learning
   - [DataQuest](https://www.dataquest.io/)
   - [Datacamp](https://datacamp.com/)
   - [Dataschool](https://www.dataschool.io/ml-courses/)
+- Papers
+  - [Paper with Code](https://paperswithcode.com/)
+  - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
   - [Driven Data](https://drivendata.org)
@@ -90,9 +93,6 @@ A collation of amazing platforms and tools for learning
   - [Codalab](https://competitions.codalab.org/competitions/)
   - [CrowdAnalytix](https://www.crowdanalytix.com/community)
   - [ML Contests](https://mlcontests.com/)
-- Papers
-  - [Paper with Code](https://paperswithcode.com/)
-  - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Uncategorized:
   - [Health Analytics](https://healthitanalytics.com/)
   - [StatQuest Index](https://statquest.org/video-index/)
