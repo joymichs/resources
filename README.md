@@ -123,3 +123,4 @@ A collation of amazing platforms and tools for learning
   - [Standford ML](https://www.coursera.org/learn/machine-learning)
   - [Stanford Resource](https://stanford-cs329s.github.io/syllabus.html)
   - [Statstinking21](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
+  - [Federated Learning](https://federated.withgoogle.com/)
