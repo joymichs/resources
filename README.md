@@ -125,3 +125,4 @@ A collation of amazing platforms and tools for learning
   - [Statstinking21](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
   - [Federated Learning](https://federated.withgoogle.com/)
   - [Made with ML](https://madewithml.com/courses/applied-ml/testing/)
+  - [A Kaggle Cheatsheet](https://www.kaggle.com/raenish/cheatsheet-text-helper-functions/)
