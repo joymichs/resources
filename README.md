@@ -126,3 +126,4 @@ A collation of amazing platforms and tools for learning
   - [Federated Learning](https://federated.withgoogle.com/)
   - [A Kaggle Cheatsheet](https://www.kaggle.com/raenish/cheatsheet-text-helper-functions/)
   - [Made with ML](https://madewithml.com/courses/applied-ml/testing/)
+  - [Martin Fowler](https://martinfowler.com/articles/cd4ml.html)
