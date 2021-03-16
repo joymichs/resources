@@ -128,3 +128,4 @@ A collation of amazing platforms and tools for learning
   - [Made with ML](https://madewithml.com/courses/applied-ml/testing/)
   - [Martin Fowler](https://martinfowler.com/articles/cd4ml.html)
   - [Quantdare](https://quantdare.com/category/all/)
+  - [MLops](https://www.youtube.com/watch?v=K6CWjg09fAQ)
