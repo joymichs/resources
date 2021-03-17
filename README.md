@@ -129,3 +129,4 @@ A collation of amazing platforms and tools for learning
   - [Martin Fowler](https://martinfowler.com/articles/cd4ml.html)
   - [Quantdare](https://quantdare.com/category/all/)
   - [MLops](https://www.youtube.com/watch?v=K6CWjg09fAQ)
+  - [MLinProd](https://mlinproduction.com/model-retraining/)
