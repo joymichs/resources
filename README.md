@@ -131,3 +131,4 @@ A collation of amazing platforms and tools for learning
   - [MLops](https://www.youtube.com/watch?v=K6CWjg09fAQ)
   - [MLinProd](https://mlinproduction.com/model-retraining/)
   - [ML Lessons Learned](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
+  - [Khan Academy Stat and Prob](https://www.khanacademy.org/math/statistics-probability)
