@@ -51,6 +51,7 @@ A collation of amazing platforms and tools for learning
   - [Kris Naik](https://www.youtube.com/user/krishnaik06)
   - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
   - [The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/playlists)
+  - [Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo)
 - Blogs:
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Kdnuggets](https://www.kdnuggets.com/)
@@ -132,5 +133,4 @@ A collation of amazing platforms and tools for learning
   - [MLinProd](https://mlinproduction.com/model-retraining/)
   - [ML Lessons Learned](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
   - [Khan Academy Stat and Prob](https://www.khanacademy.org/math/statistics-probability)
-  - [Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo)
   - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
