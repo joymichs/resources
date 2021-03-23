@@ -52,6 +52,7 @@ A collation of amazing platforms and tools for learning
   - [Sendtex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
   - [The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/playlists)
   - [Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo)
+  - [MLops](https://www.youtube.com/watch?v=K6CWjg09fAQ)
 - Blogs:
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Kdnuggets](https://www.kdnuggets.com/)
@@ -129,7 +130,6 @@ A collation of amazing platforms and tools for learning
   - [Made with ML](https://madewithml.com/courses/applied-ml/testing/)
   - [Martin Fowler](https://martinfowler.com/articles/cd4ml.html)
   - [Quantdare](https://quantdare.com/category/all/)
-  - [MLops](https://www.youtube.com/watch?v=K6CWjg09fAQ)
   - [MLinProd](https://mlinproduction.com/model-retraining/)
   - [ML Lessons Learned](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
   - [Khan Academy Stat and Prob](https://www.khanacademy.org/math/statistics-probability)
