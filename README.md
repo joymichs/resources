@@ -136,3 +136,4 @@ A collation of amazing platforms and tools for learning
   - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
   - [Baseline Models](https://machinelearningmastery.com/how-to-get-baseline-results-and-why-they-matter/)
   - [kubeflow](https://dev.to/infracloud/machine-learning-orchestration-on-kubernetes-using-kubeflow-22nk)
+  - [Fashion Cloth Transfer GAN](https://vogue-try-on.github.io/)
