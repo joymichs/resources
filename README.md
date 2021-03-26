@@ -137,3 +137,4 @@ A collation of amazing platforms and tools for learning
   - [Baseline Models](https://machinelearningmastery.com/how-to-get-baseline-results-and-why-they-matter/)
   - [Kubeflow](https://dev.to/infracloud/machine-learning-orchestration-on-kubernetes-using-kubeflow-22nk)
   - [Fashion Cloth Transfer GAN](https://vogue-try-on.github.io/)
+  - [Pyton Data Viz](https://towardsdatascience.com/complete-guide-to-data-visualization-with-python-2dd74df12b5e)
