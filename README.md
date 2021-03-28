@@ -130,7 +130,7 @@ A collation of amazing platforms and tools for learning
   - [Made with ML](https://madewithml.com/courses/applied-ml/testing/)
   - [Martin Fowler](https://martinfowler.com/articles/cd4ml.html)
   - [Quantdare](https://quantdare.com/category/all/)
-  - [MLinProd](https://mlinproduction.com/model-retraining/)
+  - [MLRetraining](https://mlinproduction.com/model-retraining/)
   - [ML Lessons Learned](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
   - [Khan Academy Stat and Prob](https://www.khanacademy.org/math/statistics-probability)
   - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
