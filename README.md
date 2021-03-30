@@ -97,7 +97,6 @@ A collation of amazing platforms and tools for learning
   - [ML Contests](https://mlcontests.com/)
 - Uncategorized:
   - [Health Analytics](https://healthitanalytics.com/)
-  - [StatQuest Index](https://statquest.org/video-index/)
   - [MIT Resource](http://introtodeeplearning.com/)
   - [Distill](https://distill.pub/)
   - [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
@@ -133,7 +132,7 @@ A collation of amazing platforms and tools for learning
   - [MLRetraining](https://mlinproduction.com/model-retraining/)
   - [ML Lessons Learned](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
   - [Khan Academy Stat and Prob](https://www.khanacademy.org/math/statistics-probability)
-  - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
   - [Baseline Models](https://machinelearningmastery.com/how-to-get-baseline-results-and-why-they-matter/)
   - [Kubeflow](https://dev.to/infracloud/machine-learning-orchestration-on-kubernetes-using-kubeflow-22nk)
   - [Fashion Cloth Transfer GAN](https://vogue-try-on.github.io/)
+  - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
