@@ -97,7 +97,6 @@ A collation of amazing platforms and tools for learning
   - [ML Contests](https://mlcontests.com/)
 - Uncategorized:
   - [Health Analytics](https://healthitanalytics.com/)
-  - [StatQuest Index](https://statquest.org/video-index/)
   - [MIT Resource](http://introtodeeplearning.com/)
   - [Distill](https://distill.pub/)
   - [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
