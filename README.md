@@ -27,6 +27,7 @@ A collation of amazing platforms and tools for learning
   - [Codechef](https://www.codechef.com/)
   - [CodeForces](https://codeforces.com/)
   - [Interview Query](https://www.interviewquery.com/)
+  - [Exercism](https://exercism.io/)
 
 - Repos:
   - [TheAlgorithms](https://github.com/TheAlgorithms)
