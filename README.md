@@ -138,3 +138,4 @@ A collation of amazing platforms and tools for learning
   - [Fashion Cloth Transfer GAN](https://vogue-try-on.github.io/)
   - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
   - [Satellite Imagery](https://www.sentinel-hub.com/)
+  - [Colab N Pyspark](https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/)
