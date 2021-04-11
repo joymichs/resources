@@ -64,7 +64,6 @@ A collation of amazing platforms and tools for learning
   - [Chris Albon's blog](https://chrisalbon.com/)
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
-  - [DevTo](https://dev.to/t/python)
   - [Data World](https://data.world/blog)
   - [Towards Datascience](https://towardsdatascience.com/)
 - Repos:
