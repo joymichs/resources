@@ -138,5 +138,4 @@ A collation of amazing platforms and tools for learning
   - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
   - [Satellite Imagery](https://www.sentinel-hub.com/)
   - [Colab and Pyspark](https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/)
-  - [DE Projects](https://www.youtube.com/watch?v=L5lI6JIj3q0)
   - [Papers with Datasets](https://paperswithcode.com/datasets)
