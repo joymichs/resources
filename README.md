@@ -139,3 +139,4 @@ A collation of amazing platforms and tools for learning
   - [Satellite Imagery](https://www.sentinel-hub.com/)
   - [Colab and Pyspark](https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/)
   - [Papers with Datasets](https://paperswithcode.com/datasets)
+  - [ML University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
