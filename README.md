@@ -131,7 +131,7 @@ A collation of amazing platforms and tools for learning
   - [Quantdare](https://quantdare.com/category/all/)
   - [Machine Learning Retraining](https://mlinproduction.com/model-retraining/)
   - [Machine Learning Lessons Learned](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
-  - [Khan Academy Stat and Prob](https://www.khanacademy.org/math/statistics-probability)
+  - [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
   - [Baseline Models](https://machinelearningmastery.com/how-to-get-baseline-results-and-why-they-matter/)
   - [Kubeflow](https://dev.to/infracloud/machine-learning-orchestration-on-kubernetes-using-kubeflow-22nk)
   - [Fashion Cloth Transfer GAN](https://vogue-try-on.github.io/)
