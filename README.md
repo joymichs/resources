@@ -142,3 +142,4 @@ A collation of amazing platforms and tools for learning
   - [ML University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
   - [Feature Selection for ML](https://trainindata.medium.com/feature-selection-for-machine-learning-a-comprehensive-overview-bd571db5dd2d)
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
+  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
