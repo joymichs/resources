@@ -144,3 +144,4 @@ A collation of amazing platforms and tools for learning
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
   - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [DL Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
+  - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
