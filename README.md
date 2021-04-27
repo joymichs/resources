@@ -146,3 +146,4 @@ A collation of amazing platforms and tools for learning
   - [Deep Learning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
   - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
+  - [SQL Pad](https://sqlpad.io/)
