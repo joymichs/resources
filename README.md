@@ -136,7 +136,7 @@ A collation of amazing platforms and tools for learning
   - [Kubeflow](https://dev.to/infracloud/machine-learning-orchestration-on-kubernetes-using-kubeflow-22nk)
   - [Fashion Cloth Transfer GAN](https://vogue-try-on.github.io/)
   - [Machine Learning Algorithms Mindmap](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)
-  - [Satellite Imagery](https://www.sentinel-hub.com/)
+  - [Satellite Imagery Service](https://www.sentinel-hub.com/)
   - [Colab and Pyspark](https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/)
   - [Papers with Datasets](https://paperswithcode.com/datasets)
   - [ML University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
