@@ -147,3 +147,4 @@ A collation of amazing platforms and tools for learning
   - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
+  - [Open Data AWS](https://registry.opendata.aws/)
