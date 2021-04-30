@@ -148,3 +148,4 @@ A collation of amazing platforms and tools for learning
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
   - [Open Data AWS](https://registry.opendata.aws/)
+  - [Awesome NLP](https://github.com/keon/awesome-nlp)
