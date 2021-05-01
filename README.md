@@ -149,3 +149,4 @@ A collation of amazing platforms and tools for learning
   - [SQL Pad](https://sqlpad.io/)
   - [Open Data AWS](https://registry.opendata.aws/)
   - [Awesome NLP](https://github.com/keon/awesome-nlp)
+  - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
