@@ -150,3 +150,4 @@ A collation of amazing platforms and tools for learning
   - [Open Data AWS](https://registry.opendata.aws/)
   - [Awesome NLP](https://github.com/keon/awesome-nlp)
   - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
+  - [End to End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
