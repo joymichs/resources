@@ -152,4 +152,4 @@ A collation of amazing platforms and tools for learning
   - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Comet ML](https://www.comet.ml/standardizing-experiment/hackernews-data-expectations/reports/unit-test-your-data-with-great-expectations)
-  - [SQL for Data Analysts](https://hakibenita.com/sql-for-data-analysis)
+  - [SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
