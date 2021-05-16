@@ -77,6 +77,7 @@ A collation of amazing platforms and tools for learning
   - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
   - [Techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
+  - [Awesome NLP](https://github.com/keon/awesome-nlp)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
@@ -148,7 +149,6 @@ A collation of amazing platforms and tools for learning
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
   - [Open Data AWS](https://registry.opendata.aws/)
-  - [Awesome NLP](https://github.com/keon/awesome-nlp)
   - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Comet ML](https://www.comet.ml/standardizing-experiment/hackernews-data-expectations/reports/unit-test-your-data-with-great-expectations)
