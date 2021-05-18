@@ -54,6 +54,7 @@ A collation of amazing platforms and tools for learning
   - [The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ/playlists)
   - [Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo)
   - [MLops](https://www.youtube.com/watch?v=K6CWjg09fAQ)
+  - [Pragmatic AI Labs](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
 - Blogs:
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Kdnuggets](https://www.kdnuggets.com/)
@@ -153,4 +154,3 @@ A collation of amazing platforms and tools for learning
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Comet ML](https://www.comet.ml/standardizing-experiment/hackernews-data-expectations/reports/unit-test-your-data-with-great-expectations)
   - [SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
-  - [Pragmatic AI Labs](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
