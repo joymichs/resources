@@ -80,6 +80,7 @@ A collation of amazing platforms and tools for learning
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
   - [Awesome NLP](https://github.com/keon/awesome-nlp)
   - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
+  - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
@@ -147,7 +148,6 @@ A collation of amazing platforms and tools for learning
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
   - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [Deep Learning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
-  - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
   - [Open Data AWS](https://registry.opendata.aws/)
