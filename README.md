@@ -81,6 +81,7 @@ A collation of amazing platforms and tools for learning
   - [Awesome NLP](https://github.com/keon/awesome-nlp)
   - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
   - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
+  - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
@@ -151,6 +152,5 @@ A collation of amazing platforms and tools for learning
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
   - [Open Data AWS](https://registry.opendata.aws/)
-  - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Comet ML](https://www.comet.ml/standardizing-experiment/hackernews-data-expectations/reports/unit-test-your-data-with-great-expectations)
   - [SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
