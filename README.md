@@ -81,6 +81,7 @@ A collation of amazing platforms and tools for learning
   - [Awesome NLP](https://github.com/keon/awesome-nlp)
   - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
   - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
+  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
@@ -147,7 +148,6 @@ A collation of amazing platforms and tools for learning
   - [ML University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
   - [Feature Selection for ML](https://trainindata.medium.com/feature-selection-for-machine-learning-a-comprehensive-overview-bd571db5dd2d)
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
-  - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [Deep Learning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
