@@ -84,6 +84,7 @@ A collation of amazing platforms and tools for learning
   - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
+  - [Engr Manager](https://github.com/ryanburgess/engineer-manager)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
