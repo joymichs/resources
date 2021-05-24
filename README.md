@@ -85,6 +85,7 @@ A collation of amazing platforms and tools for learning
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
   - [Engr Manager](https://github.com/ryanburgess/engineer-manager)
+  - [Deep Learning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
@@ -149,7 +150,6 @@ A collation of amazing platforms and tools for learning
   - [Papers with Datasets](https://paperswithcode.com/datasets)
   - [ML University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
   - [Feature Selection for ML](https://trainindata.medium.com/feature-selection-for-machine-learning-a-comprehensive-overview-bd571db5dd2d)
-  - [Deep Learning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
   - [Open Data AWS](https://registry.opendata.aws/)
