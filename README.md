@@ -55,6 +55,7 @@ A collation of amazing platforms and tools for learning
   - [Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo)
   - [MLops](https://www.youtube.com/watch?v=K6CWjg09fAQ)
   - [Pragmatic AI Labs](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
+  - [ML University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
 - Blogs:
   - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Kdnuggets](https://www.kdnuggets.com/)
@@ -64,7 +65,6 @@ A collation of amazing platforms and tools for learning
   - [Edwin Chen's blog](http://blog.echen.me/)
   - [Chris Albon's blog](https://chrisalbon.com/)
   - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
-  - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
   - [Data World](https://data.world/blog)
   - [Towards Datascience](https://towardsdatascience.com/)
 - Repos:
@@ -148,11 +148,10 @@ A collation of amazing platforms and tools for learning
   - [Satellite Imagery Service](https://www.sentinel-hub.com/)
   - [Colab and Pyspark](https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/)
   - [Papers with Datasets](https://paperswithcode.com/datasets)
-  - [ML University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured)
   - [Feature Selection for ML](https://trainindata.medium.com/feature-selection-for-machine-learning-a-comprehensive-overview-bd571db5dd2d)
   - [Free NLP Resources](https://towardsdatascience.com/10-free-resources-for-learning-natural-language-processing-81a380540cd1)
   - [SQL Pad](https://sqlpad.io/)
   - [Open Data AWS](https://registry.opendata.aws/)
   - [Comet ML](https://www.comet.ml/standardizing-experiment/hackernews-data-expectations/reports/unit-test-your-data-with-great-expectations)
   - [SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
-  - [Fullstackdeeplearning](https://fullstackdeeplearning.com/spring2021/)
+  - [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
