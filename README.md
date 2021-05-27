@@ -85,7 +85,7 @@ A collation of amazing platforms and tools for learning
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
   - [Engr Manager](https://github.com/ryanburgess/engineer-manager)
-  - [Deep Learning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
+  - [DeepLearning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
@@ -94,7 +94,7 @@ A collation of amazing platforms and tools for learning
   - [Datacamp](https://datacamp.com/)
   - [Dataschool](https://www.dataschool.io/ml-courses/)
 - Papers
-  - [Paper with Code](https://paperswithcode.com/)
+  - [Papers with Code](https://paperswithcode.com/)
   - [Arxiv](https://arxiv.org/list/stat.ML/recent)
 - Competitions
   - [Kaggle](https://www.kaggle.com/)
@@ -102,7 +102,7 @@ A collation of amazing platforms and tools for learning
   - [Datahack](http://datahack.analyticsvidhya.com/)
   - [AIcrowd](https://www.aicrowd.com/)
   - [Codalab](https://competitions.codalab.org/competitions/)
-  - [CrowdAnalytix](https://www.crowdanalytix.com/community)
+  - [Crowd Analytix](https://www.crowdanalytix.com/community)
   - [ML Contests](https://mlcontests.com/)
 - Uncategorized:
   - [Health Analytics](https://healthitanalytics.com/)
