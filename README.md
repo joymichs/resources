@@ -154,4 +154,4 @@ A collation of amazing platforms and tools for learning
   - [Open Data AWS](https://registry.opendata.aws/)
   - [Comet ML](https://www.comet.ml/standardizing-experiment/hackernews-data-expectations/reports/unit-test-your-data-with-great-expectations)
   - [SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
-  - [Full Stack DeepLearning](https://fullstackdeeplearning.com/spring2021/)
+  - [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
