@@ -100,7 +100,7 @@ A collation of amazing platforms and tools for learning
   - [Kaggle](https://www.kaggle.com/)
   - [Driven Data](https://drivendata.org)
   - [Datahack](http://datahack.analyticsvidhya.com/)
-  - [AIcrowd](https://www.aicrowd.com/)
+  - [AI Crowd](https://www.aicrowd.com/)
   - [Codalab](https://competitions.codalab.org/competitions/)
   - [Crowd Analytix](https://www.crowdanalytix.com/community)
   - [ML Contests](https://mlcontests.com/)
