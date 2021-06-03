@@ -156,3 +156,4 @@ A collation of amazing platforms and tools for learning
   - [SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
   - [Full Stack DeepLearning](https://fullstackdeeplearning.com/spring2021/)
   - [Python Principles](https://pythonprinciples.com/lessons/)
+  - [Better Programming] (https://betterprogramming.pub/5-data-sources-for-data-engineering-projects-d198ca0e74d4)
