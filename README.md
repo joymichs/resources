@@ -127,7 +127,7 @@ A collation of amazing platforms and tools for learning
   - [DeepLearning Book](http://www.deeplearningbook.org/)
   - [Springboard](https://www.springboard.com/workshops/data-science-career-track?afmc=2h)
   - [Intellipat](https://intellipaat.com/tutorials/)
-  - [Datascience.com](http://101.datascience.community/)
+  - [101 Datascience](http://101.datascience.community/)
   - [Data36](https://data36.com/)
   - [Simply Statistics](https://simplystatistics.org/)
   - [Standford ML](https://www.coursera.org/learn/machine-learning)
