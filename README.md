@@ -116,7 +116,7 @@ A collation of amazing platforms and tools for learning
   - [Hackr](https://hackr.io/tutorials/learn-python)
   - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
   - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
-  - [H9](https://hakin9.org/list-of-free-python-resources/)
+  - [Hakin9](https://hakin9.org/list-of-free-python-resources/)
   - [Explained AI](https://explained.ai/)
   - [Computer Science Online](https://www.computerscienceonline.org/learn-python/)
   - [The Shape of Data](https://shapeofdata.wordpress.com/about/)
