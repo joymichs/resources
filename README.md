@@ -134,7 +134,7 @@ A collation of amazing platforms and tools for learning
   - [Stanford Resource](https://stanford-cs329s.github.io/syllabus.html)
   - [Statstinking21](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
   - [Federated Learning](https://federated.withgoogle.com/)
-  - [A Kaggle Cheatsheet](https://www.kaggle.com/raenish/cheatsheet-text-helper-functions/)
+  - [Kaggle Cheatsheet](https://www.kaggle.com/raenish/cheatsheet-text-helper-functions/)
   - [Made with ML](https://madewithml.com/courses/applied-ml/testing/)
   - [Martin Fowler](https://martinfowler.com/articles/cd4ml.html)
   - [Quantdare](https://quantdare.com/category/all/)
