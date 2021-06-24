@@ -92,7 +92,7 @@ A collation of amazing platforms and tools for learning
 - Paid Courses
   - [DataQuest](https://www.dataquest.io/)
   - [Datacamp](https://datacamp.com/)
-  - [Dataschool](https://www.dataschool.io/ml-courses/)
+  - [Dataschool ML Course](https://www.dataschool.io/ml-courses/)
 - Papers
   - [Papers with Code](https://paperswithcode.com/)
   - [Arxiv](https://arxiv.org/list/stat.ML/recent)
