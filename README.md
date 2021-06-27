@@ -158,4 +158,4 @@ A collation of amazing platforms and tools for learning
   - [Python Principles](https://pythonprinciples.com/lessons/)
   - [Better Programming](https://betterprogramming.pub/5-data-sources-for-data-engineering-projects-d198ca0e74d4)
   - [Google Developers ML Crash Course](https://developers.google.com/machine-learning/crash-course)
-  - [Tech Book Library](https://github.com/burkesquires/tech-books-library)
+  - [Tech Books Library](https://github.com/burkesquires/tech-books-library)
