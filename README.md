@@ -154,7 +154,7 @@ A collation of amazing platforms and tools for learning
   - [Open Data AWS](https://registry.opendata.aws/)
   - [Comet ML](https://www.comet.ml/standardizing-experiment/hackernews-data-expectations/reports/unit-test-your-data-with-great-expectations)
   - [SQL for Data Analysis](https://hakibenita.com/sql-for-data-analysis)
-  - [Full Stack DeepLearning](https://fullstackdeeplearning.com/spring2021/)
+  - [FullStack DeepLearning](https://fullstackdeeplearning.com/spring2021/)
   - [Python Principles](https://pythonprinciples.com/lessons/)
   - [Better Programming](https://betterprogramming.pub/5-data-sources-for-data-engineering-projects-d198ca0e74d4)
   - [Google Developers ML Crash Course](https://developers.google.com/machine-learning/crash-course)
