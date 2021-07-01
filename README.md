@@ -159,3 +159,4 @@ A collation of amazing platforms and tools for learning
   - [Better Programming](https://betterprogramming.pub/5-data-sources-for-data-engineering-projects-d198ca0e74d4)
   - [Google Developers ML Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [Tech Books Library](https://github.com/burkesquires/tech-books-library)
+  - [Hugging Face](https://huggingface.co/course/chapter1/1?fw=pt)
