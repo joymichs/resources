@@ -84,7 +84,7 @@ A collation of amazing platforms and tools for learning
   - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
-  - [Engr Manager](https://github.com/ryanburgess/engineer-manager)
+  - [Engineering Manager](https://github.com/ryanburgess/engineer-manager)
   - [DeepLearning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
@@ -160,4 +160,4 @@ A collation of amazing platforms and tools for learning
   - [Google Developers ML Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [Tech Books Library](https://github.com/burkesquires/tech-books-library)
   - [Hugging Face](https://huggingface.co/course/chapter1/1?fw=pt)
-  - [ML Microsoft for Beginners](https://github.com/microsoft/ML-For-Beginners)
+  - [ML for Beginners by Microsoft](https://github.com/microsoft/ML-For-Beginners)
