@@ -83,7 +83,7 @@ A collation of amazing platforms and tools for learning
   - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
   - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
-  - [Deep learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
+  - [Deep Learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
   - [Engineering Manager](https://github.com/ryanburgess/engineer-manager)
   - [DeepLearning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
 - MOOCs:
