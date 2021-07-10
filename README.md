@@ -106,7 +106,7 @@ A collation of amazing platforms and tools for learning
   - [ML Contests](https://mlcontests.com/)
 - Uncategorized:
   - [Health Analytics](https://healthitanalytics.com/)
-  - [MIT DL Resource](http://introtodeeplearning.com/)
+  - [MIT Deep Learning Resource](http://introtodeeplearning.com/)
   - [Distill](https://distill.pub/)
   - [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
   - [Data School](https://www.dataschool.io/resources/)
