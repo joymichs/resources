@@ -136,7 +136,7 @@ A collation of amazing platforms and tools for learning
   - [Federated Learning](https://federated.withgoogle.com/)
   - [Kaggle Cheatsheet](https://www.kaggle.com/raenish/cheatsheet-text-helper-functions/)
   - [Made with ML](https://madewithml.com/courses/applied-ml/testing/)
-  - [Martin Fowler](https://martinfowler.com/articles/cd4ml.html)
+  - [Martin Fowler Blog](https://martinfowler.com/articles/cd4ml.html)
   - [Quantdare](https://quantdare.com/category/all/)
   - [Model Retraining](https://mlinproduction.com/model-retraining/)
   - [Machine Learning Lessons Learned](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
