@@ -161,6 +161,6 @@ A collation of amazing platforms and tools for learning
   - [Tech Books Library](https://github.com/burkesquires/tech-books-library)
   - [Hugging Face](https://huggingface.co/course/chapter1/1?fw=pt)
   - [ML for Beginners by Microsoft](https://github.com/microsoft/ML-For-Beginners)
-  - [DE Day AWS](https://aws-dataengineering-day.workshop.aws/)
+  - [AWS DE Day](https://aws-dataengineering-day.workshop.aws/)
   - [Practical Time Series](https://www.kaggle.com/konradb/practical-time-series-part-1-the-basics)
   - [Azure Factory](https://youtube.com/playlist?list=PLMWaZteqtEaLTJffbbBzVOv9C0otal1FO)
