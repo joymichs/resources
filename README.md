@@ -80,17 +80,17 @@ A collation of amazing platforms and tools for learning
   - [Feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
   - [Awesome NLP](https://github.com/keon/awesome-nlp)
   - [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)
-  - [Pytorch Resource](https://github.com/ritchieng/the-incredible-pytorch)
+  - [ritchieng/pytorch-resource](https://github.com/ritchieng/the-incredible-pytorch)
   - [Microsoft NLP Recipes](https://github.com/microsoft/nlp-recipes)
   - [End-to-End Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
   - [Deep Learning Treasure](https://github.com/kmario23/deep-learning-drizzle)
-  - [Engineering Manager](https://github.com/ryanburgess/engineer-manager)
+  - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)
   - [DeepLearning Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning)
 - MOOCs:
   - [EDX](https://www.edx.org/learn/data-science)
   - [Cognitive Class](https://cognitiveclass.ai/)
 - Paid Courses
-  - [DataQuest](https://www.dataquest.io/)
+  - [Dataquest](https://www.dataquest.io/)
   - [Datacamp](https://datacamp.com/)
   - [Dataschool ML Course](https://www.dataschool.io/ml-courses/)
 - Papers
