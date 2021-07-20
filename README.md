@@ -164,3 +164,4 @@ A collation of amazing platforms and tools for learning
   - [AWS DE Day](https://aws-dataengineering-day.workshop.aws/)
   - [Practical Time Series](https://www.kaggle.com/konradb/practical-time-series-part-1-the-basics)
   - [Azure Factory](https://youtube.com/playlist?list=PLMWaZteqtEaLTJffbbBzVOv9C0otal1FO)
+  - [Calm Code](https://calmcode.io/)
