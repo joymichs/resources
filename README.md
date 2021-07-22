@@ -166,3 +166,4 @@ A collation of amazing platforms and tools for learning
   - [Azure Factory](https://youtube.com/playlist?list=PLMWaZteqtEaLTJffbbBzVOv9C0otal1FO)
   - [Calm Code](https://calmcode.io/)
   - [Python Fire](https://github.com/google/python-fire)
+  - [Hakibenita](https://hakibenita.com/)
